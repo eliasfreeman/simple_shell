@@ -6,6 +6,7 @@
  * @src: const char pointer the source of str
  * Return: the dest
  */
+
 char *_strcat(char *dest, const char *src)
 {
 	int i;

@@ -1,2 +1,2 @@
 # simple_shell
-A simple shell project for ALX
+A simple UNIX interpreter project for ALX

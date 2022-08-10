@@ -6,6 +6,7 @@
  * @i: type int pointer of index.
  * Return: 1 if the path is searchable in the cd, 0 otherwise.
  */
+
 int is_cdir(char *path, int *i)
 {
 	if (path[*i] == ':')
